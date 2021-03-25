@@ -1,0 +1,11 @@
+
+dsquid:UselessImportCheck"@Remove this unused import 'sun.security.provider.PolicySpiFile'.(ã±ÝŸ
+Psquid:S3252"9Use static access with "org.openqa.selenium.By" for "id".(–ìØ¯
+Ssquid:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(ãÆé
+asquid:UselessImportCheck"=Remove this unused import 'sun.print.PSStreamPrinterFactory'.(œŽÐ
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(œŽÐ
+Xsquid:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(Š“Äªúÿÿÿÿ
+Xsquid:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(ÞëÂ¥ûÿÿÿÿ
+Ssquid:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(ÑÜ…×
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éÍÉË
+Xsquid:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(¬Äó®øÿÿÿÿ
